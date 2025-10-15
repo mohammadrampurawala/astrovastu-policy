@@ -1,0 +1,2 @@
+# astrovastu-policy
+Privacy Policy
